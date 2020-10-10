@@ -1,0 +1,39 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "0f9a4015-e8f5-4418-bf6b-5bde0ee547fb",
+            "details": "PresQT Upload to GitHub",
+            "actionDateTime": "2020-10-10 15:37:56.437613+00:00",
+            "actionType": "resource_upload",
+            "sourceTargetName": "Local Machine",
+            "sourceUsername": null,
+            "destinationTargetName": "github",
+            "destinationUsername": "PresQT-QA-TEST",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/NewProject-PresQT2-/funnyfunnyimages/Screen_Shot_2019-07-15_at_3.26.49_PM.png",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "3505a89c3cbb82873a107ae41f3997c3",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "sourceHashes": {
+                            "md5": "3505a89c3cbb82873a107ae41f3997c3"
+                        },
+                        "sourcePath": "/NewProject/funnyfunnyimages/Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
